@@ -6,5 +6,11 @@
     grid-template-rows: repeat(2, 100px); /* Two rows, each with a height of 100px */
     grid-gap: 10px; /* Add a 10px gap between grid items */
     width: 220px; /* Set the width of the grid container to accommodate the gaps */
-    height: 220px; /* Set the height of the grid container to accommodate the gaps */
+    
+	height: 220px; /* Set the height of the grid container to accommodate the gaps */
   }
+
+.item{
+	background-color: red;
+	color: white;
+}
